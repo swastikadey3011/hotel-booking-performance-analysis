@@ -59,7 +59,7 @@ Project Files
 
 - "hotel_booking_project.pbix" — Interactive Power BI dashboard
 
-- "Dashboard.png" — Dashboard preview screenshot
+- "Dashboard.png" — Dashboard preview"Hotel Booking Dashboard" (./Dashboard.png) screenshot
 "Hotel Booking Dashboard" (./Dashboard.png)
 
 Author
