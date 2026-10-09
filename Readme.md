@@ -62,6 +62,8 @@ Project Files
 - "Dashboard.png" — Dashboard preview"Hotel Booking Dashboard" (./Dashboard.png) screenshot
 "Hotel Booking Dashboard" (./Dashboard.png)
 
+- "Hotel Booking Dashboard" (./Dashboard.png)
+
 Author
 
 Swastika Dey
