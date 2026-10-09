@@ -9,7 +9,7 @@ The interactive dashboard presents key performance indicators (KPIs) and visuali
 
 Dashboard Preview
 
-"Hotel Booking Performance Dashboard" (Dashboard.png)
+"Hotel Booking Dashboard" (./Dashboard.png)
 
 Project Objectives
 
