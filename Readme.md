@@ -59,6 +59,7 @@ Project Files
 
 - "hotel_booking_project.pbix" — Interactive Power BI dashboard
 - "Dashboard.png" — Dashboard preview screenshot
+"Hotel Booking Performance Dashboard" (Dashboard.png)
 
 Author
 
@@ -67,4 +68,5 @@ Swastika Dey
 I am developing my data analytics skills through hands-on projects focused on data analysis, visualization, and generating meaningful business insights.
 
 GitHub: "swastikadey3011" (https://github.com/swastikadey3011)
+
 LinkedIn: "Swastika Dey" (https://www.linkedin.com/in/swastika-dey2026)
