@@ -1,46 +1,70 @@
-# Hotel Booking Performance & Cancellation Insights
 
-## Project Overview
-This project analyzes hotel booking data using Power BI to understand booking trends, cancellation patterns, pricing, and customer behavior. The dashboard presents key performance indicators (KPIs) and interactive visualizations to support data-driven decision-making.
+Hotel Booking Performance & Cancellation Insights
 
-## Objectives
+Project Overview
+
+This project analyzes hotel booking data using Microsoft Power BI to understand booking performance, cancellation patterns, pricing, and customer behavior.
+
+The interactive dashboard presents key performance indicators (KPIs) and visualizations to support data-driven business decisions.
+
+Dashboard Preview
+
+"Hotel Booking Performance Dashboard" (Dashboard.png)
+
+Project Objectives
+
 - Analyze total hotel bookings and cancellation rates.
 - Compare booking performance across hotel types.
 - Explore market segments and distribution channels.
 - Understand Average Daily Rate (ADR) and booking lead time.
-- Identify booking trends over time and customer patterns.
+- Analyze booking trends over time.
+- Explore customer types and booking patterns.
 
-## Tools & Technologies
+Tools & Technologies
+
 - Microsoft Power BI
-- Power Query for data preparation
-- DAX for calculated measures and KPIs
+- Power Query
+- DAX (Data Analysis Expressions)
 
-## Key Performance Indicators
+Key Performance Indicators (KPIs)
+
 - Total Bookings
 - Cancellation Rate
 - Average Daily Rate (ADR)
 - Average Lead Time
 - Average Stay Length
 
-## Dashboard Features
-- Booking analysis by hotel type
-- Cancellation rate comparison
-- Market segment analysis
-- ADR comparison by hotel type
-- Booking trends over time
-- Customer type and distribution channel analysis
+Dashboard Features
+
+- Bookings by Hotel Type
+- Cancellation Rate by Hotel Type
+- Bookings by Market Segment
+- Average ADR by Hotel Type
+- Booking Trends Over Time
+- Bookings by Customer Type
+- Bookings by Distribution Channel
 - Interactive slicers for hotel, year, market segment, and customer type
 
-## Key Insights
-The dashboard helps explore differences in booking volume, cancellation behavior, pricing, and customer segments. Specific findings can vary according to the selected filters.
+Key Insights
 
-## Dataset
-The project is based on the Hotel Booking Demand dataset.
+The dashboard helps explore differences in booking volume, cancellation behavior, pricing, and customer segments. Results can be examined interactively using the available filters.
 
-Source: [Hotel Booking Demand Dataset — Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+Dataset
 
-## Project Files
-- `.pbix` — Interactive Power BI dashboard
-"Hotel Booking Dashboard" (Dashboard.png)
-## Author
-Created as part of my Data Analytics portfolio to practice data analysis, visualization, and business insight generation.
+This project uses the Hotel Booking Demand dataset.
+
+Source: "Hotel Booking Demand Dataset — Kaggle" (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+Project Files
+
+- "hotel_booking_project.pbix" — Interactive Power BI dashboard
+- "Dashboard.png" — Dashboard preview screenshot
+
+Author
+
+Swastika Dey
+
+I am developing my data analytics skills through hands-on projects focused on data analysis, visualization, and generating meaningful business insights.
+
+GitHub: "swastikadey3011" (https://github.com/swastikadey3011)
+LinkedIn: "Swastika Dey" (https://www.linkedin.com/in/swastika-dey2026)
