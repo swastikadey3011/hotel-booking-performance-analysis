@@ -1,4 +1,3 @@
-
 Hotel Booking Performance & Cancellation Insights
 
 Project Overview
@@ -9,7 +8,7 @@ The interactive dashboard presents key performance indicators (KPIs) and visuali
 
 Dashboard Preview
 
-"Hotel Booking Dashboard" (./Dashboard.png)
+"Hotel Booking Performance Dashboard" (Dashboard.png)
 
 Project Objectives
 
@@ -26,7 +25,7 @@ Tools & Technologies
 - Power Query
 - DAX (Data Analysis Expressions)
 
-Key Performance Indicators (KPIs)
+Key Performance Indicators
 
 - Total Bookings
 - Cancellation Rate
@@ -47,7 +46,7 @@ Dashboard Features
 
 Key Insights
 
-The dashboard helps explore differences in booking volume, cancellation behavior, pricing, and customer segments. Results can be examined interactively using the available filters.
+The dashboard allows users to explore booking volume, cancellation behavior, pricing, and customer segments through interactive filters.
 
 Dataset
 
@@ -58,11 +57,7 @@ Source: "Hotel Booking Demand Dataset — Kaggle" (https://www.kaggle.com/datase
 Project Files
 
 - "hotel_booking_project.pbix" — Interactive Power BI dashboard
-
-- "Dashboard.png" — Dashboard preview"Hotel Booking Dashboard" (./Dashboard.png) screenshot
-"Hotel Booking Dashboard" (./Dashboard.png)
-
-- "Hotel Booking Dashboard" (./Dashboard.png)
+- "Dashboard.png" — Dashboard preview screenshot
 
 Author
 
