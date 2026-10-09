@@ -8,7 +8,7 @@ The interactive dashboard presents key performance indicators (KPIs) and visuali
 
 Dashboard Preview
 
-"Hotel Booking Performance Dashboard" (Dashboard.png)
+"Hotel Booking Performance Dashboard" (./Dashboard.png)
 
 Project Objectives
 
@@ -54,11 +54,11 @@ This project uses the Hotel Booking Demand dataset.
 
 Source: "Hotel Booking Demand Dataset — Kaggle" (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
+
 Project Files
 
 - "hotel_booking_project.pbix" — Interactive Power BI dashboard
 - "Dashboard.png" — Dashboard preview screenshot
-
 Author
 
 Swastika Dey
