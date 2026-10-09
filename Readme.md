@@ -41,8 +41,6 @@ Source: [Hotel Booking Demand Dataset — Kaggle](https://www.kaggle.com/dataset
 
 ## Project Files
 - `.pbix` — Interactive Power BI dashboard
-- `.png` — Dashboard preview screenshot
 "Hotel Booking Dashboard" (Dashboard.png)
-
 ## Author
 Created as part of my Data Analytics portfolio to practice data analysis, visualization, and business insight generation.
