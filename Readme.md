@@ -6,9 +6,7 @@ This project analyzes hotel booking data using Microsoft Power BI to understand 
 
 The interactive dashboard presents key performance indicators (KPIs) and visualizations to support data-driven business decisions.
 
-Dashboard Preview
-
-"Hotel Booking Performance Dashboard" (./Dashboard.png)
+"Dashboard Preview" (https://raw.githubusercontent.com/swastikadey3011/hotel-booking-performance-analysis/main/Dashboard.png)
 
 Project Objectives
 
